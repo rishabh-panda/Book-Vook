@@ -12,8 +12,7 @@ academic term/semester.
 ## Problem Statement
 
 Since the pandemic has begun, students have been receiving a good amount of books and study materials delivered via
-courier per semester. The materials can be divided into core and non-core domains. For instance, Engg. Maths, Signal Processing and Networking find their place under core subjects, whereas P. Com. and Biology are listed under the non technical wing of syllabus that demands theoretical expertise. Therefore, students should always have a choice to receive a particular volume in either electronic format (PDFs, ODP, Doc) or hardcopy, depending upon their need in this online
-world of education. This customized mechanism will help a learner optimize his study routine by reading books from a combination of: <br /> <br />
+courier per semester. The materials can be divided into core and non-core domains. For instance, Engineering Mathematics, Digital Signal Processing and Data Communication & Networking (DCN) find their place under core subjects, whereas Professional Communication and Engineering Biology are listed under the non technical wing of syllabus that demands theoretical expertise. Therefore, students should always have a choice to receive a particular volume in either electronic format (PDFs, ODP, Doc) or hardcopy, depending upon their need in this online era of education. This customized mechanism will help a learner optimize his study routine by reading books from a combination of: <br /> <br />
 ● Electronic devices (laptops/smartphones/tabs) and <br />
 ● Paperback (hardcopy). <br /> <br />
 This, as a consequence, will not only help save the transport & delivery charges but will also exponentially reduce the production amount of paper in institutions on a global scale.
