@@ -2,7 +2,7 @@
 ---
 ## Introduction
 
-During the COVID-19 pandemic students and working professionals all over the world transitioned to electronic media that changed the global work culture. The future is digital and needs integration and a hybridized system to evolve. <br /> Therefore, we have decided to develop a software based solution to tackle the impact of: <br /> <br />
+During the COVID-19 pandemic students and working professionals all over the world transitioned to electronic media that changed the global work culture. The future is digital and needs integration and a hybridized system to evolve. Therefore, we have decided to develop a software based solution to tackle the impact of: <br /> <br />
 ● Large-scale industrial paper production on environment and, <br />
 ● Institutional charges for the distribution of study materials/textbooks per <br />
 academic term/semester.
