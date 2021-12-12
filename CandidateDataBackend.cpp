@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
 
-//max denotes the maximum possible 
-//data entry for candidates
+//max denotes the maximum
+//number of candidates
 #define max 30
+
 using namespace std;
 
 //Structure containing 
@@ -17,6 +18,9 @@ struct candidate_data
 	    
   //roll/registration number
   long int reg_roll_no;
+
+  //does the student prefer paperback or sofcopy?
+  string preference;
 };
 
 //condition for variable (num <= max)
@@ -63,6 +67,10 @@ void build()
 		cout << "\nRegist. No.: ";
 		cin >> candid_container[i].reg_roll_no;
 
+    //candidate preference
+		cout << "\nMaterial Preference (Softcopy/Paperback): ";
+		cin >> candid_container[i].preference;
+
 	}
 
   //function prototype used
@@ -95,6 +103,10 @@ void insert()
     //candidate registration number
 		cout << "\nRegist. No.: ";
 		cin >> candid_container[i].reg_roll_no;
+
+	//candidate preference
+		cout << "\nMaterial Preference (Softcopy/Paperback): ";
+		cin >> candid_container[i].preference;
 	}
   
 	else
@@ -110,14 +122,15 @@ void insert()
 //function to output the table
 void  DisplayTable()
 {
-	cout<<"Candidate Name  Semester GPA  Registration Number "<<endl;
-	cout<<"--------------------------------------------------"<<endl;
+	cout<<"Candidate Name   Semester GPA   Regist. Number   Preference "<<endl;
+	cout<<"-----------------------------------------------------------"<<endl;
 
 	for(int i = 0; i <= num-1; i++)
 	{
 		cout<<candid_container[i].name;
 		cout<<setw(17)<<candid_container[i].semester_grade_point;
 		cout<<setw(17)<<candid_container[i].reg_roll_no;
+		cout<<setw(17)<<candid_container[i].preference;
 		cout<<endl;
 	}
     //prototype used to display data
@@ -128,21 +141,23 @@ void  DisplayTable()
 void searchRecord()
 {
   //enter candidate's name to be searched
-	cout << "\nEnter The Candidate's Name: ";
+	cout << "\nEnter The Candidate's Registration Number: ";
 
-	string name;
-	cin >> name;
+	long int reg_num;
+	cin >> reg_num;
 
 	for (int i = 0; i < num; i++) {
 
 		// If the name is found in the built record
     //show the candidate's data
-		if (candid_container[i].name == name) {
+		if (candid_container[i].reg_roll_no == reg_num) {
 			cout << "\nCandidate Name: "<< candid_container[i].name << "\n";
 
 			cout << "Semester GPA: "<< candid_container[i].semester_grade_point << "\n";
 
 			cout << "Regist. No.: "<< candid_container[i].reg_roll_no << "\n";
+
+			cout << "Material Preference: "<< candid_container[i].preference << "\n";
 
 			break;
 		}
@@ -156,9 +171,10 @@ void searchRecord()
 void DisplayMenu()
 {
 
-	cout << "\n\n--------------------------------------------------\n\n";
+	cout << "\n\n-----------------------------------------------------------\n\n";
 
-	cout << "\nWelcome To The Portal:\n\n";
+	cout << "\nWelcome To The Portal:\n";
+	cout << "*********************\n\n";
 	cout << "To Build Candidate Data        (Press 1)\n";
 	cout << "To Insert New Data             (Press 2)\n";
 	cout << "To Display The Candidate Data  (Press 3)\n";
