@@ -167,7 +167,7 @@ void searchRecord()
 	DisplayMenu();
 }
 
-//function used to display data
+//function used to display menu
 void DisplayMenu()
 {
 
@@ -175,11 +175,11 @@ void DisplayMenu()
 
 	cout << "\nWelcome To The Portal:\n";
 	cout << "*********************\n\n";
-	cout << "To Build Candidate Data        (Press 1)\n";
-	cout << "To Insert New Data             (Press 2)\n";
-	cout << "To Display The Candidate Data  (Press 3)\n";
-	cout << "To Search For A Candidate      (Press 4)\n";
-	cout << "For Exit                       (Press 5)\n";
+	cout << "To Build Candidate Data           (Press 1)\n";
+	cout << "To Insert New Data                (Press 2)\n";
+	cout << "To Display The Candidate Data     (Press 3)\n";
+	cout << "To Search For A Candidate         (Press 4)\n";
+	cout << "For Exit                          (Press 5)\n";
     cout << "\n";
 
 	int option;
@@ -221,6 +221,8 @@ void DisplayMenu()
 //main function
 int main()
 {
+	//clearscreen function
+        //system("cls");
 	DisplayMenu();
 	return 0;
 }
