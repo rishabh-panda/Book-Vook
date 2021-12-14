@@ -7,7 +7,7 @@
 using namespace std;
 
 //Structure containing 
-//necessary data variables
+//necessary variables
 struct candidate_data
 {
   //variable containing candidate name
