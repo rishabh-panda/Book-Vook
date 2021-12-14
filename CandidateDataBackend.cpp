@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-//max denotes the maximum
+//max' denotes the maximum
 //number of candidates
 #define max 30
 
