@@ -27,7 +27,7 @@ The solution to this problem lies in building an efficient software integrated w
 
 Tools and technologies to be implemented: <br />
 ● C/C++ <br />
-● Matlab <br />
+● Python <br />
 ● MS Excel <br />  <br /> 
 ![Algorithm - eGL](https://user-images.githubusercontent.com/80598737/139715190-e3263fb3-a4e9-4852-a3ad-7d14bf4a3f67.png)
 
