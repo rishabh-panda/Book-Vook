@@ -1,4 +1,4 @@
-# electronic Green Library (eGL)
+# Paper 📃 Taper
 ---
 ## Introduction
 
