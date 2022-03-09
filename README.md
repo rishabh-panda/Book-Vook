@@ -31,6 +31,11 @@ The solution to this problem lies in building an efficient Web Application that 
 ## Advantages
 
 - Reduction in paper consumption (and deforestation, as a consequence).
+- E-books come with font style and size flexibility.
+- Better Memory Management: E-readers can store thousands of books on a single device.
+- Efficient in carrying: Books on paper are difficult to carry around, especially hardcovers.
+-  Satisfaction of having an entire library at your fingertips, an infinite supply just a click away, ready to download instantly.
+-  No need of an e-reader to read e-books. One can use laptop, an Apple iPad or other tablet device, or even a phone app.
 - Better management of energy requirement for production.
 - Decrease in the amount of industrial toxins used to create
 pulp and bleach for paper.
