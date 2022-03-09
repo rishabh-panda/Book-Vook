@@ -21,7 +21,7 @@ This, as a consequence, will not only help save the transport & delivery charges
 
 ## The Solution
 
-The solution to this problem lies in building an efficient Web Application that can handle the student data. The mechanism stores the student data and computes the quantity of material that needs to be delivered via courier and electronic formats. Lastly, the charges are estimated per student and an analysis is performed that displays the quantity of paper saved per academic semester/year. We will also try to predict and estimate the future demands (file format types) using the previous trends in order to get an idea of the investments that must made into purchasing the materials.
+The solution to this problem lies in building an efficient Web Application that can handle the student data and predict the student inputs in future semesters using **Machine Learning**. The mechanism stores the student data and computes the quantity of material that needs to be delivered via courier and electronic formats. Lastly, the charges are estimated per student and an analysis is performed that displays the quantity of paper saved per academic semester/year. We will also try to predict and estimate the future demands (file format types) using the previous trends in order to get an idea of the investments that must made into purchasing the materials.
 
 <br />
 
