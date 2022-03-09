@@ -12,8 +12,8 @@ academic term/semester.
 ## Problem Statement
 
 Since the pandemic has begun, students have been receiving a good amount of books and study materials delivered via
-courier per semester. The materials can be divided into core and non-core domains. For instance, Engineering Mathematics, Digital Signal Processing and Data Communication & Networking (DCN) find their place under core subjects, whereas Professional Communication and Engineering Biology are listed under the non technical wing of syllabus that demands theoretical expertise. Therefore, students should always have a choice to receive a particular volume in either electronic format (PDFs, ODP, Doc) or hardcopy, depending upon their need in this online era of education. This customized mechanism will help a learner optimize his study routine by reading books from a combination of: <br /> <br />
-● Electronic devices (laptops/smartphones/tabs) and <br />
+courier per semester. The materials can be divided into core and non-core domains. For instance, Engineering Mathematics, Digital Image Processing, Networking, etc. find their place under core subjects, whereas Professional Communication and Engineering Biology are listed under the non technical wing of syllabus that demands theoretical expertise. Therefore, students should always have a choice to receive a particular volume in either electronic format (PDFs, ODP, Doc) or hardcopy, depending upon their need in this online era of education. This customized mechanism will help a learner optimize his study routine by reading books from a combination of: <br /> <br />
+● Electronic devices (laptops/smartphones/tabs) and/or <br />
 ● Paperback (hardcopy). <br /> <br />
 This, as a consequence, will not only help save the transport & delivery charges but will also exponentially reduce the production amount of paper in institutions on a global scale.
 
@@ -21,7 +21,7 @@ This, as a consequence, will not only help save the transport & delivery charges
 
 ## The Solution
 
-The solution to this problem lies in building an efficient software integrated with the University student portal (SAP) that can handle the large student data by collecting user inputs. The mechanism then stores the student data and computes the quantity of material that needs to be delivered via courier and electronic formats. Lastly, the charges are estimated per student and an analysis is performed that displays the quantity of paper saved per academic semester/year.
+The solution to this problem lies in building an efficient Web Application that can handle the student data. The mechanism stores the student data and computes the quantity of material that needs to be delivered via courier and electronic formats. Lastly, the charges are estimated per student and an analysis is performed that displays the quantity of paper saved per academic semester/year. We will also try to predict and estimate the future demands (file format types) using the previous trends in order to get an idea of the investments that must made into purchasing the materials.
 
 <br />
 
@@ -30,12 +30,12 @@ The solution to this problem lies in building an efficient software integrated w
 
 ## Advantages
 
-● Reduction in deforestation. <br />
-● Better management of energy requirement for production. <br />
-● Decrease in the amount of industrial toxins used to create
-pulp and bleach. <br />
-● Boost in the efficiency of water treatment. <br />
-● Promotes the concept of three R’s (Reduce, Reuse, Recycle) <br />
+- Reduction in paper consumption (and deforestation, as a consequence).
+- Better management of energy requirement for production.
+- Decrease in the amount of industrial toxins used to create
+pulp and bleach for paper.
+- Boost in the efficiency of water treatment.
+- Promotes the concept of three R’s (Reduce, Reuse, Recycle)
 
 <br />
 
