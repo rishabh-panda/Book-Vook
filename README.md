@@ -47,3 +47,25 @@ pulp and bleach for paper.
 1. IT industry once predicted that its emergence is to make paperless offices but its amazing to find that about 95% of office work across the world is still done on paper. <br />
 2. 42% of all global wood harvest is used to make paper. Is it really worth it to cut down our life saving trees for this product? Also the bleaching reagents without proper treatment that get released into river bodies prove to be graveyard for hydrological ecology. <br /> 
 3. According to a survey, an average tree gets converted in to 12000 A4 sheets. As per our calculations, we require almost 300 trees to run an engineering semester (6 month duration) and a tree requires a minimum of 3 years to grow and become mature.
+
+## Let's observe the statistics/results
+
+![image](https://user-images.githubusercontent.com/80598737/158441864-89c09aa4-ca13-4160-bddf-0a82b5739110.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442017-ed736522-b52d-496c-9634-5bd58d857b78.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442152-a938436e-bca7-489b-8ad4-189a674a7b4f.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442255-59d7b877-f657-49ec-b3ba-73892b90660c.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442311-bd66c9f1-63df-42ac-970d-ac1b295aad8c.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442342-1eb5895a-afdb-4604-97da-a5a93cdf1204.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442383-9b12b55c-4b47-4c44-8e32-966c17ac2512.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442586-997133e4-2e8d-45f4-b891-98e9d2f9eb25.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442650-bc9ea7ac-3ad4-40a4-99e7-7e5d4627822d.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/158442695-6e7c648e-16d2-4ec3-8efe-566cf551d864.png)
