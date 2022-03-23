@@ -50,22 +50,32 @@ pulp and bleach for paper.
 
 ## Let's observe the statistics/results
 
-![image](https://user-images.githubusercontent.com/80598737/158441864-89c09aa4-ca13-4160-bddf-0a82b5739110.png)
+![image](https://user-images.githubusercontent.com/80598737/159672147-4ac21ad0-a2a3-46e7-914a-a671dca38213.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442017-ed736522-b52d-496c-9634-5bd58d857b78.png)
+![image](https://user-images.githubusercontent.com/80598737/159672212-02c06984-8423-487b-9043-f609219b7fb3.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442152-a938436e-bca7-489b-8ad4-189a674a7b4f.png)
+![image](https://user-images.githubusercontent.com/80598737/159672377-1e13c839-2742-4011-af87-9b770c3eb20f.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442255-59d7b877-f657-49ec-b3ba-73892b90660c.png)
+![image](https://user-images.githubusercontent.com/80598737/159672462-e2256e39-93a0-4350-96ed-cb6972ea710a.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442311-bd66c9f1-63df-42ac-970d-ac1b295aad8c.png)
+![image](https://user-images.githubusercontent.com/80598737/159672535-d81bdc5a-cf60-4fab-8927-ba8b908f61d3.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442342-1eb5895a-afdb-4604-97da-a5a93cdf1204.png)
+![image](https://user-images.githubusercontent.com/80598737/159672588-2224f6d4-dc10-4b4d-b74e-bf61fe898eb6.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442383-9b12b55c-4b47-4c44-8e32-966c17ac2512.png)
+![image](https://user-images.githubusercontent.com/80598737/159672636-7d503220-3015-4186-9fb7-33e5efcd3c92.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442586-997133e4-2e8d-45f4-b891-98e9d2f9eb25.png)
+![image](https://user-images.githubusercontent.com/80598737/159672693-7d58dddb-4cf6-4f85-9a4e-719f2fbecca3.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442650-bc9ea7ac-3ad4-40a4-99e7-7e5d4627822d.png)
+![image](https://user-images.githubusercontent.com/80598737/159672755-d26f1352-9cb8-4492-89c7-baca5005e115.png)
 ---
-![image](https://user-images.githubusercontent.com/80598737/158442695-6e7c648e-16d2-4ec3-8efe-566cf551d864.png)
+![image](https://user-images.githubusercontent.com/80598737/159672814-1ae334e1-c5a4-416f-8977-09122a83d955.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/159672882-3037ae51-fead-4f6b-9555-401ac9ebf893.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/159672933-795778ab-ab76-4fcc-b7b0-826fe2708a85.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/159672987-78a61e3e-8f81-4e0e-9e03-c1600f37614a.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/159673045-d289b019-08ea-41fd-8432-b09fedfbc235.png)
+---
+![image](https://user-images.githubusercontent.com/80598737/159673126-dcfc5d93-b942-4e3d-bb5c-bbd32f4fdc13.png)
