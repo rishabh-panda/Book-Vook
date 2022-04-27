@@ -46,35 +46,3 @@ pulp and bleach for paper.
 1. IT industry once predicted that its emergence is to make paperless offices but its amazing to find that about 95% of office work across the world is still done on paper. <br />
 2. 42% of all global wood harvest is used to make paper. Is it really worth it to cut down our life saving trees for this product? Also the bleaching reagents without proper treatment that get released into river bodies prove to be graveyard for hydrological ecology. <br /> 
 3. According to a survey, an average tree gets converted in to 12000 A4 sheets. As per our calculations, we require almost 300 trees to run an engineering semester (6 month duration) and a tree requires a minimum of 3 years to grow and become mature.
-
-## Let's observe the statistics/results
-
-![image](https://user-images.githubusercontent.com/80598737/159672147-4ac21ad0-a2a3-46e7-914a-a671dca38213.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672212-02c06984-8423-487b-9043-f609219b7fb3.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672377-1e13c839-2742-4011-af87-9b770c3eb20f.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672462-e2256e39-93a0-4350-96ed-cb6972ea710a.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672535-d81bdc5a-cf60-4fab-8927-ba8b908f61d3.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672588-2224f6d4-dc10-4b4d-b74e-bf61fe898eb6.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672636-7d503220-3015-4186-9fb7-33e5efcd3c92.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672693-7d58dddb-4cf6-4f85-9a4e-719f2fbecca3.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672755-d26f1352-9cb8-4492-89c7-baca5005e115.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672814-1ae334e1-c5a4-416f-8977-09122a83d955.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672882-3037ae51-fead-4f6b-9555-401ac9ebf893.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672933-795778ab-ab76-4fcc-b7b0-826fe2708a85.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159672987-78a61e3e-8f81-4e0e-9e03-c1600f37614a.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159673045-d289b019-08ea-41fd-8432-b09fedfbc235.png)
----
-![image](https://user-images.githubusercontent.com/80598737/159673126-dcfc5d93-b942-4e3d-bb5c-bbd32f4fdc13.png)
